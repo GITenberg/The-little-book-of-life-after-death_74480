@@ -1,0 +1,48 @@
+_repo: The-little-book-of-life-after-death_74480
+_version: 0.0.1
+alternative_title: Das Büchlein vom Leben nach dem Tode. English
+contributor:
+  author_of_introduction:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+  translator:
+    agent_name: Wadsworth, Mary C.
+    gutenberg_agent_id: '57521'
+    url: http://www.gutenberg.org/2009/agents/57521
+creator:
+  author:
+    agent_name: Fechner, Gustav Theodor
+    alias: Fechner, G. Th. (Gustav Theodor)
+    birthdate: 1801
+    deathdate: 1887
+    gutenberg_agent_id: '42821'
+    url: http://www.gutenberg.org/2009/agents/42821
+    wikipedia: https://en.wikipedia.org/wiki/Gustav_Fechner
+description: ''
+gutenberg_issued: '2024-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74480'
+  lccn: 04024584
+language: en
+pgterms:marc904: https://archive.org/details/littlebookoflife00fechuoft
+pgterms:marc905: 20231105013231fechner
+pgterms:marc906: '1904'
+pgterms:marc907: us
+production_note: Peter Becker, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bLittle, Brown, & Company, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immortality'
+- !lcc 'BT'
+- GITenberg
+title: The little book of life after death
+url: http://www.gutenberg.org/ebooks/74480
