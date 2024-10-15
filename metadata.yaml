@@ -13,6 +13,9 @@ contributor:
     agent_name: Wadsworth, Mary C.
     gutenberg_agent_id: '57521'
     url: http://www.gutenberg.org/2009/agents/57521
+covers:
+- cover_type: archival
+  image_path: 74480-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Fechner, Gustav Theodor
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42821
     wikipedia: https://en.wikipedia.org/wiki/Gustav_Fechner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74480#The-little-book-of-life-after-death
 gutenberg_issued: '2024-09-26'
 gutenberg_type: Text
 identifiers:
